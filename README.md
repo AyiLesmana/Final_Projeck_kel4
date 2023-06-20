@@ -1,4 +1,4 @@
-# SISTEM DETEKSI ASAP DAN API BERBASIS IoT MENGGUNAKAN BOT TELEGRAM PADA GEDUNG INDEKOS
+# SISTEM DETEKSI ASAP DAN API BERBASIS IoT MENGGUNAKAN BOT WHATSAPP PADA GEDUNG INDEKOS
 Projeck Akhir Internet Of Things untuk memenuhi tugas akhir study independent di MySkill
 <h1>Anggota kelompok:</h1>
 <h4>1. Andi Khaerun Nisa A. Abbas - A3</h4>
